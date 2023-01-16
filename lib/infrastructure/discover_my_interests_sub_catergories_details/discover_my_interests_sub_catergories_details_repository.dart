@@ -1,0 +1,5 @@
+import 'discover_my_interests_sub_catergories_details_interface.dart';
+
+class DiscoverMyInterestsSubCatergoriesDetails implements DiscoverMyInterestsSubCatergoriesInterface{
+
+}

@@ -1,0 +1,3 @@
+class GetGroupInviteMembersLocalDataProvider{
+  const GetGroupInviteMembersLocalDataProvider();
+}

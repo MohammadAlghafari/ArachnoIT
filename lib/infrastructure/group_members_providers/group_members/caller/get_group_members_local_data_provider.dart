@@ -1,0 +1,3 @@
+class GetGroupMembersLocalDataProvider{
+  const GetGroupMembersLocalDataProvider();
+}

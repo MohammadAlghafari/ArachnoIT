@@ -1,0 +1,1791 @@
+{
+  "platform": "Platform",
+  "@platform": {
+    "description": "Part of app name title"
+  },
+  "arachno": "Arachno",
+  "@arachno": {
+    "description": "Part of app name title"
+  },
+  "it": "it",
+  "@it": {
+    "description": "Part of app name title"
+  },
+  "login_into_your_account": "Login into your account",
+  "@login_into_your_account": {
+    "description": "Login message to display in login screen"
+  },
+  "forgot_password": "Forget your password?",
+  "@forgot_password": {
+    "description": "Forget your password?"
+  },
+  "sign_up_for_an_account": "Sign up for an account?",
+  "@sign_up_for_an_account": {
+    "description": "Sign up for an account?"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login"
+  },
+  "register_new": "Register New",
+  "@register_new": {
+    "description": "part of register new account headline"
+  },
+  "account": "Account",
+  "@account": {
+    "description": "part of register new account headline"
+  },
+  "patient_interest_in_the_healthCare_world": "Patient interested in the healthCare world",
+  "@patient_interest_in_the_healthCare_world": {
+    "description": " patient interest in the healthCare world"
+  },
+  "doctor_dentist_pharmacist_hospital_laboratory_company_student_etc": "Doctor, dentist, pharmacist, Hospital, laboratory, company, student, etc.",
+  "@doctor_dentist_pharmacist_hospital_laboratory_company_student_etc": {
+    "description": "doctor dentist pharmacist hospital laboratory company student etc"
+  },
+  "register_as_a_health_care_provider": "Register as HealthCare Provider",
+  "@register_as_a_health_care_provider": {
+    "description": "Register as HealthCare Provider"
+  },
+  "register_as_user": "Register as User",
+  "@register_as_user": {
+    "description": "Register as User"
+  },
+  "choose_account_type": "Choose account type:",
+  "@choose_account_type": {
+    "description": "choose account type in register bottom sheet"
+  },
+  "please_select_account_type": "Please select account type",
+  "@please_select_account_type": {
+    "description": "please select account type in register bottom sheet"
+  },
+  "individual": "Individual",
+  "@individual": {
+    "description": "individual"
+  },
+  "enterprise": "Enterprise",
+  "@enterprise": {
+    "description": "enterprise"
+  },
+  "business_info": "An account for Enterprises or companies that provide health services",
+  "@business_info": {
+    "description": "business account info in register bottom sheet"
+  },
+  "individual_info": "An account for healthcare providers whether they are doctors, pharmacists, students in medical fields … etc",
+  "@individual_info": {
+    "description": "individual account info in register bottom sheet"
+  },
+  "next": "Next",
+  "@next": {
+    "description": "next button"
+  },
+  "register_new_account": "Register New Account \nAs",
+  "@register_new_account": {
+    "description": "Register New Account As"
+  },
+  "normal_user": "Normal User",
+  "@normal_user": {
+    "description": "Normal User"
+  },
+  "individual_user": "Individual User",
+  "@individual_user": {
+    "description": "Individual User"
+  },
+  "business_user": "Business User",
+  "@business_user": {
+    "description": "Business User"
+  },
+  "your_personal_information": "Personal information",
+  "@your_personal_information": {
+    "description": "Personal information"
+  },
+  "first_name": "First name",
+  "@first_name": {
+    "description": "first name"
+  },
+  "first_name_": "First name:",
+  "@first_name_": {
+    "description": "first name:"
+  },
+  "last_name": "Last name",
+  "@last_name": {
+    "description": "last name"
+  },
+  "last_name_": "Last name:",
+  "@last_name_": {
+    "description": "last name:"
+  },
+  "touch_point_name": "Your Touch Point Name",
+  "@touch_point_name": {
+    "description": "Your Touch Point Name"
+  },
+  "touch_point_name_": "Your Touch Point Name:",
+  "@touch_point_name_": {
+    "description": "Your Touch Point Name:"
+  },
+  "licence_to_practice_is_recommended_to_use": "*Your full name on the license to practice should be used.",
+  "@licence_to_practice_is_recommended_to_use": {
+    "description": "*Your full name on the license to practice should be used."
+  },
+  "trade_licence_is_recommended_to_use": "*Company name on official license is recommended to use.",
+  "@trade_licence_is_recommended_to_use": {
+    "description": "*Company name on official license is recommended to use."
+  },
+  "date_of_birth": "Date of Birth",
+  "@date_of_birth": {
+    "description": "Date of Birth"
+  },
+  "date_of_birth_": "Date of Birth:",
+  "@date_of_birth_": {
+    "description": "Date of Birth:"
+  },
+  "date_create_enterprise": "Date of Establishment",
+  "@date_create_enterprise": {
+    "description": "Date of Establishment"
+  },
+  "date_create_enterprise_": "Date of Establishment:",
+  "@date_create_enterprise_": {
+    "description": "Date of Establishment:"
+  },
+  "qualification": "Qualification",
+  "@qualification": {
+    "description": "Qualification"
+  },
+  "qualification_": "Qualification:",
+  "@qualification_": {
+    "description": "Qualification:"
+  },
+  "type": "Type",
+  "@type": {
+    "description": "Type"
+  },
+  "type_": "Type:",
+  "@type_": {
+    "description": "Type:"
+  },
+  "speciality": "Speciality",
+  "@speciality": {
+    "description": "Speciality"
+  },
+  "speciality_": "Speciality:",
+  "@speciality_": {
+    "description": "Speciality:"
+  },
+  "gender": "Gender:",
+  "@gender": {
+    "description": "Gender"
+  },
+  "male": "Male",
+  "@male": {
+    "description": "Male"
+  },
+  "female": "Female",
+  "@female": {
+    "description": "Female"
+  },
+  "contact_information": "Contact information",
+  "@contact_information": {
+    "description": "Contact information"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email"
+  },
+  "email_": "Email:",
+  "@email_": {
+    "description": "Email:"
+  },
+  "country": "Country",
+  "@country": {
+    "description": "Country"
+  },
+  "country_": "Country:",
+  "@country_": {
+    "description": "Country:"
+  },
+  "city": "City",
+  "@city": {
+    "description": "City"
+  },
+  "city_": "City:",
+  "@city_": {
+    "description": "City:"
+  },
+  "mobile": "Mobile",
+  "@mobile": {
+    "description": "Mobile"
+  },
+  "mobile_": "Mobile:",
+  "@mobile_": {
+    "description": "Mobile:"
+  },
+  "code": "Code",
+  "@code": {
+    "description": "Code"
+  },
+  "security_information": "Security Information",
+  "@security_information": {
+    "description": "Security Information"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password"
+  },
+  "password_": "Password:",
+  "@password_": {
+    "description": "Password:"
+  },
+  "confirm_password": "Confirm Password",
+  "@confirm_password": {
+    "description": "Confirm Password"
+  },
+  "confirm_password_": "Confirm Password:",
+  "@confirm_password_": {
+    "description": "Confirm Password:"
+  },
+  "register": "Register",
+  "@register": {
+    "description": "Register"
+  },
+  "please_agree_to_our_terms_to_continue": "Please agree to our terms to continue",
+  "@please_agree_to_our_terms_to_continue": {
+    "description": "Please agree to our terms to continue"
+  },
+  "this_field_is_required": "This field is required",
+  "@this_field_is_required": {
+    "description": "This field is required"
+  },
+  "email_invalid": "Please Enter a valid email",
+  "@email_invalid": {
+    "description": "Please Enter a valid email"
+  },
+  "mobile_invalid": "Please Enter a valid number",
+  "@mobile_invalid": {
+    "description": "Please Enter a valid number"
+  },
+  "touch_name_invalid": "Touch point name must be at least 5 letters",
+  "@touch_name_invalid": {
+    "description": "Touch point name must be at least 5 letters"
+  },
+  "password_invalid": "Password must be at least 5 letters with 1 number",
+  "@password_invalid": {
+    "description": "Password must be at least 5 letters with 1 number"
+  },
+  "data_error": "There is an error in data, please try again",
+  "@data_error": {
+    "description": "There is an error in data, please try again"
+  },
+  "server_error": "The server is not exists, please try again later",
+  "@server_error": {
+    "description": "The server is not exists, please try again later"
+  },
+  "user_error": "Error happened try again",
+  "@user_error": {
+    "user_error": "Error happened try again"
+  },
+  "touch_name_error": "This name already exist",
+  "@touch_name_error": {
+    "description": "This name already exist"
+  },
+  "email_error": "This email already exist",
+  "@email_error": {
+    "description": "This email already exist"
+  },
+  "mobile_error": "This phone number is already exist",
+  "@mobile_error": {
+    "description": "This phone number is already exist"
+  },
+  "password_not_match": "Password not match",
+  "@password_not_match": {
+    "description": "Password not match"
+  },
+  "wrong_password_or_user_name": "Wrong email or password",
+  "@wrong_password_or_user_name": {
+    "description": "Wrong email or password"
+  },
+  "please_choose_your_type_first": "please choose your specification first",
+  "@please_choose_your_type_first": {
+    "description": "please choose your specification first"
+  },
+  "choose_your_country_first": "Please choose your country first",
+  "@choose_your_country_first": {
+    "description": "Please choose your country first"
+  },
+  "verification": "VERIFICATION",
+  "@verification": {
+    "description": "VERIFICATION"
+  },
+  "otp_has_been_sent_to_you_on_your_email_phone_please_enter_it_below": "Activation code has been sent to you on your email. Please enter it below",
+  "@otp_has_been_sent_to_you_on_your_email_phone_please_enter_it_below": {
+    "description": "Activation code has been sent to you on your email. Please enter it below"
+  },
+  "re_register_start": "Didn't receive the code? check your email spelling and re ",
+  "@re_register_start": {
+    "description": "Didn't receive the code? check your email spelling and re  "
+  },
+  "re_register_middle": "register",
+  "@re_register_middle": {
+    "description": "register"
+  },
+  "re_register_end": "again.",
+  "@re_register_end": {
+    "description": "again."
+  },
+  "resend_activation_code": "Resend Activation Code",
+  "@resend_activation_code": {
+    "description": "Resend Activation Code"
+  },
+  "back_to_home": "Back to home",
+  "@back_to_home": {
+    "description": "Back to home"
+  },
+  "re_send_activation_code": "Activation code has been sent to you on your email successfully",
+  "@re_send_activation_code": {
+    "description": "Activation code has been sent to you on your email successfully"
+  },
+  "wrong_activation_code": "you have entered wrong activation code",
+  "@wrong_activation_code": {
+    "description": "you have entered wrong activation code"
+  },
+  "need_verification": "your account is not verified please verify it to login",
+  "@need_verification": {
+    "description": "your account is not verified please verify it to login"
+  },
+  "account_locked": "Your account is currently locked by administrator",
+  "@account_locked": {
+    "description": "Your account is currently locked by administrator"
+  },
+  "please_verify": "Your email is registered you just need to activate it !",
+  "@please_verify": {
+    "description": "Your email is registered you just need to activate it !"
+  },
+  "activate_your_account": "Activate your account",
+  "@activate_your_account": {
+    "description": "Activate your account"
+  },
+  "or": "OR",
+  "@or": {
+    "description": "OR your account"
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading"
+  },
+  "new_password": "New Password",
+  "@new_password": {
+    "description": "New Password"
+  },
+  "change_password": "Change password",
+  "@change_password": {
+    "description": "Change password"
+  },
+  "reset_password": "Reset Your Password:",
+  "@reset_password": {
+    "description": "Reset Your Password"
+  },
+  "cancel": "CANCEL",
+  "@cancel": {
+    "description": "CANCEL"
+  },
+  "submit": "SUBMIT",
+  "@submit": {
+    "description": "SUBMIT"
+  },
+  "please_choose_language": "Please Choose Language:",
+  "@please_choose_language": {
+    "description": "Please Choose Language:"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English"
+  },
+  "arabic": "Arabic",
+  "@arabic": {
+    "description": "Arabic"
+  },
+  "change_your_password": "Change Your Password",
+  "@change_your_password": {
+    "description": "Change Your Password"
+  },
+  "current_password": "Current Password",
+  "@current_password": {
+    "description": "Current Password"
+  },
+  "new_password_cannot_match_old_password": "your current password cannot be used as a new password",
+  "@new_password_cannot_match_old_password": {
+    "description": "your current password cannot be used as a new password"
+  },
+  "general": "General",
+  "@general": {
+    "description": "General"
+  },
+  "profile": "My Profile",
+  "@profile": {
+    "description": "My Profile"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home"
+  },
+  "groups": "Groups",
+  "@groups": {
+    "description": "Groups"
+  },
+  "search": "Search",
+  "@search": {
+    "description": "Search"
+  },
+  "favourite": "Favorite",
+  "@favourite": {
+    "description": "Favorite"
+  },
+  "chat": "Chat",
+  "@chat": {
+    "description": "Chat"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings"
+  },
+  "pending_list": "Pending list",
+  "@pending_list": {
+    "description": "Pending list"
+  },
+  "language": "Choose Language",
+  "@language": {
+    "description": "Choose Language"
+  },
+  "active_sessions": "Active Sessions",
+  "@active_sessions": {
+    "description": "Active Sessions"
+  },
+  "my_interests": "My interests",
+  "@my_interests": {
+    "description": "My interests"
+  },
+  "other": "Other",
+  "@other": {
+    "description": "Other"
+  },
+  "invite_friend": "Invite Friend",
+  "@invite_friend": {
+    "description": "Invite Friend"
+  },
+  "about_health_in_touch": "About arachnoit",
+  "@about_health_in_touch": {
+    "description": "About Health In Touch"
+  },
+  "user_manual": "User Manual",
+  "@user_manual": {
+    "description": "User Manual"
+  },
+  "sign_up": "Sign up",
+  "@sign_up": {
+    "description": "Sign up"
+  },
+  "change_your_currently_password_with_a_new_one": "Change your currently password with a new one",
+  "@change_your_currently_password_with_a_new_one": {
+    "description": "Change your currently password with a new one"
+  },
+  "enable_fingerprint_authentication": "Enable Fingerprint Authentication",
+  "@enable_fingerprint_authentication": {
+    "description": "Enable Fingerprint Authentication"
+  },
+  "add_your_fingerprint_to_lock_the_app_with_it": "Add your fingerprint to lock the app with it",
+  "@add_your_fingerprint_to_lock_the_app_with_it": {
+    "description": "Add your fingerprint to lock the app with it"
+  },
+  "authentication": "Authentication",
+  "@authentication": {
+    "description": "Authentication"
+  },
+  "security": "Security",
+  "@security": {
+    "description": "Security"
+  },
+  "place_your_finger_on_the_device_home_button_to_verify_your_identity": "Place your finger on the device home button to verify your identity",
+  "@place_your_finger_on_the_device_home_button_to_verify_your_identity": {
+    "description": "Place your finger on the device home button to verify your identity"
+  },
+  "fingerprint_added": "fingerprint added!",
+  "@fingerprint_added": {
+    "description": "fingerprint added!"
+  },
+  "scan_your_fingerprint_to_get_access": "Scan Your Fingerprint To Get Access",
+  "@scan_your_fingerprint_to_get_access": {
+    "description": "Scan Your Fingerprint To Get Access"
+  },
+  "you_can_download_the_user_manual_and_specification_platform_from_here": "You can download the user manual and specification platform from here:",
+  "@you_can_download_the_user_manual_and_specification_platform_from_here": {
+    "description": "You can download the user manual and specification platform from here:"
+  },
+  "specification_platform": "Specification Platform",
+  "@specification_platform": {
+    "description": "Specification Platform"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "logout": "Logout"
+  },
+  "current_session": "Current Session",
+  "@current_session": {
+    "current_session": "current_session"
+  },
+  "active_session": "Active Session",
+  "@active_session": {
+    "active_session": "active_session"
+  },
+  "report": "Report",
+  "@report": {
+    "description": "report"
+  },
+  "patents": "Patents",
+  "@patents": {
+    "description": "patents"
+  },
+  "department": "Department",
+  "@department": {
+    "department": "department"
+  },
+  "status": "Status",
+  "@status": {
+    "status": "status"
+  },
+  "approved": "Approved",
+  "@approved": {
+    "approved": "approved"
+  },
+  "pending_approval": "Pending Approval",
+  "@pending_approval": {
+    "pending_approval": "pending_approval"
+  },
+  "leave": "Leave",
+  "@leave": {
+    "leave": "leave"
+  },
+  "accept": "Accept",
+  "@accept": {
+    "accept": "accept"
+  },
+  "invite": "Invite",
+  "@invite": {
+    "invite": "invite"
+  },
+  "remove": "Remove",
+  "@remove": {
+    "remove": "remove"
+  },
+  "pending": "Pending",
+  "@pending": {
+    "pending": "pending"
+  },
+  "success_to_remove_member": "Success remove member",
+  "@success_to_remove_member": {
+    "success_to_remove_member": "success_to_remove_member"
+  },
+  "error_to_remove_member": "error remove member",
+  "@error_to_remove_member": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "group_information": "Group Information",
+  "@group_information": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "name": "Name",
+  "@name": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "description": "Description",
+  "@description": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "category": "Category",
+  "@category": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "categories": "Categories",
+  "@categories": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "subCategory": "SubCategory",
+  "@subCategory": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "mainGroup": "MainGroup",
+  "@mainGroup": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "public": "Public",
+  "@public": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "private": "Private",
+  "@private": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "closed": "Closed",
+  "@closed": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "encoded": "Encoded",
+  "@encoded": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "save_group": "Save group",
+  "@save_group": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "edit_group": "Edit group",
+  "@edit_group": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "add_group": "Add group",
+  "@add_group": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "group_privacy": "Group privacy",
+  "@group_privacy": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "public_content": "public groups can be found in search,and every person can see its content,and can see members of the group.",
+  "@public_content": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "closed_content": "Closed groups can be found in search,but no one can see its content,or see members of the group.",
+  "@closed_content": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "private_content": "Private groups can not be found in search,and no one can see its content,or see members of the group.",
+  "@private_content": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "encoded_content": "Group members see each others as symbols not names.only admin distinguish members name this way eliminates embarrassment in health groups like group therapy.",
+  "@encoded_content": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "gallery": "Gallery",
+  "@gallery": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "camera": "Camera",
+  "@camera": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "delete_image": "Delete Image",
+  "@delete_image": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "delete_group": "Delete Group",
+  "@delete_group": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "sub_group": "Sub Group",
+  "@sub_group": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "group_members": "Group Members",
+  "@group_members": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "invite_members": "Invite Members",
+  "@invite_members": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "members": "Members",
+  "@members": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "questionAndAnswer": "Q&A",
+  "@questionAndAnswer": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "blogs": "Blogs",
+  "@blogs": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "chats": "Chat",
+  "@chats": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "please_select_category": "Please select category",
+  "@please_select_category": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "join": "Join",
+  "@join": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "ok": "Ok",
+  "@ok": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "inject": "Inject",
+  "@inject": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "more_option": "More option",
+  "@more_option": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "admin": "Admin",
+  "@admin": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "editor": "Editor",
+  "@editor": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "coordinator": "Coordinator",
+  "@coordinator": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "user": "User",
+  "@user": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "add_permission": "Add Permission",
+  "@add_permission": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "success_to_invite_member": "Success to invite member",
+  "@success_to_invite_member": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "error_to_invite_member": "failure to invite member",
+  "@error_to_invite_member": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "no_members_yet": "No members yet",
+  "@no_members_yet": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "process_success": "The operation successed",
+  "@process_success": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "process_failure": "The operation failed",
+  "@process_failure": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "unFollow": "UnFollow",
+  "@unFollow": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "unFavoriteList": "Do you sure you want to unFavorite",
+  "@unFavoriteList": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "favoriteList": "from list favorites",
+  "@favoriteList": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+
+  "unFavorite": "UnFavorite",
+  "@unFavorite": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "please_check_member_type": "please check member permission",
+  "@please_check_member_type": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "idleText": "refresh",
+  "@idleText": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "releaseText": "do you want refreshing",
+  "@releaseText": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "completeText": "refresh completed ",
+  "@completeText": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "failedText": "refresh failure ",
+  "@failedText": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "refreshingText": "refreshing",
+  "@refreshingText": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "discover": "Discover",
+  "@discover": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "providers": "Providers",
+  "@providers": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "public_group": "Public Group",
+  "@public_group": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "my_group": "My Group",
+  "@my_group": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "see_all": "See All",
+  "@see_All": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "there_is_not_yet": "There is not yet",
+  "@there_is_not_yet": {
+    "error_to_remove_member": "error_to_remove_member"
+  },
+  "followers": "followers",
+  "@followers": {
+    "followers": "followers"
+  },
+  "services": "services",
+  "@services": {
+    "services": "services"
+  },
+  "questions": "questions",
+  "@questions": {
+    "questions": "questions"
+  },
+  "posts": "posts",
+  "@posts": {
+    "posts": "posts"
+  },
+  "first_name_in_english": "First name in english",
+  "@first_name_in_english": {
+    "first_name_in_english": "first_name_in_english"
+  },
+  "last_name_in_english": "Last name in english",
+  "@last_name_in_english": {
+    "last_name_in_english": "last_name_in_english"
+  },
+  "full_name_in_arabic": "Full name in arabic",
+  "@full_name_in_arabic": {
+    "full_name_in_arabic": "full_name_in_arabic"
+  },
+  "about": "About",
+  "@about": {
+    "about": "about"
+  },
+  "sub_qualification": "Sub qualification",
+  "@sub_qualification": {
+    "sub_qualification": "sub_qualification"
+  },
+  "save": "Save",
+  "@save": {
+    "save": "save"
+  },
+  "address": "Address",
+  "@address": {
+    "address": "address"
+  },
+  "land_line": "Land line",
+  "@land_line": {
+    "land_line": "land_line"
+  },
+  "no_address": "No address",
+  "@no_address": {
+    "no_address": "no_address"
+  },
+  "social_media": "Social media",
+  "@social_media": {
+    "social_media": "social_media"
+  },
+  "location": "Location",
+  "@location": {
+    "location": "location"
+  },
+  "go": "Go",
+  "@go": {
+    "go": "go"
+  },
+  "face_book": "Face book",
+  "@face_book": {
+    "face_book": "face_book"
+  },
+  "instagram": "instagram",
+  "@instagram": {
+    "instagram": "instagram"
+  },
+  "telegram": "telegram",
+  "@telegram": {
+    "telegram": "telegram"
+  },
+  "whats_app": "Whatsapp",
+  "@whats_app": {
+    "whats_app": "whats_app"
+  },
+  "twitter": "Twitter",
+  "@twitter": {
+    "twitter": "twitter"
+  },
+  "youtube": "Youtube",
+  "@youtube": {
+    "youtube": "youtube"
+  },
+  "edit_social_medial_info": "Edit social medial info",
+  "@edit_social_medial_info": {
+    "edit_social_medial_info": "edit_social_medial_info"
+  },
+  "licenses": "Licenses",
+  "@licenses": {
+    "licenses": "licenses"
+  },
+  "lectures": "Lectures",
+  "@lectures": {
+    "lectures": "lectures"
+  },
+  "certificate": "Certificate",
+  "@certificate": {
+    "certificate": "certificate"
+  },
+  "experience": "Experience",
+  "@experience": {
+    "experience": "experience"
+  },
+  "projects": "Projects",
+  "@projects": {
+    "projects": "projects"
+  },
+  "educations": "Educations",
+  "@educations": {
+    "educations": "educations"
+  },
+  "courses": "Courses",
+  "@courses": {
+    "courses": "courses"
+  },
+  "skills": "Skills",
+  "@skills": {
+    "skills": "skills"
+  },
+  "language_skills": "Language Skills",
+  "@language_skills": {
+    "language_skills": "language_skills"
+  },
+  "show_more": "Show more",
+  "@show_more": {
+    "show_more": "show_more"
+  },
+  "all": "All",
+  "@all": {
+    "all": "all"
+  },
+  "license_item_name": "license item name",
+  "@license_item_name": {
+    "license_item_name": "license_item_name"
+  },
+  "lecture_item_name": "Lecture item name",
+  "@lecture_item_name": {
+    "lecture_item_name": "lecture_item_name"
+  },
+  "certificate_item_name": "Certificate item name",
+  "@certificate_item_name": {
+    "certificate_item_name": "certificate_item_name"
+  },
+  "experience_item_name": "Experience item name",
+  "@experience_item_name": {
+    "experience_item_name": "experience_item_name"
+  },
+  "projects_item_name": "Projects item name",
+  "@projects_item_name": {
+    "projects_item_name": "projects_item_name"
+  },
+  "educations_item_name": "Educations item name",
+  "@educations_item_name": {
+    "educations_item_name": "educations_item_name"
+  },
+  "courses_item_name": "Courses item name",
+  "@courses_item_name": {
+    "courses_item_name": "courses_item_name"
+  },
+  "skills_item_name": "Skills item name",
+  "@skills_item_name": {
+    "skills_item_name": "skills_item_name"
+  },
+  "language_skills_item_name": "language_skills item name",
+  "@language_skills_item_name": {
+    "language_skills_item_name": "language_skills_item_name"
+  },
+  "no_detail": "No detail",
+  "@no_detail": {
+    "no_detail": "no_detail"
+  },
+  "add_new_license": "Add New License",
+  "@add_new_license": {
+    "add_new_license": "add_new_license"
+  },
+  "update_license": "Update License",
+  "@update_license": {
+    "update_license": "update_license"
+  },
+  "filed_title": "Filed title",
+  "@filed_title": {
+    "filed_title": "filed_title"
+  },
+  "description_title": "Description title",
+  "@description_title": {
+    "description_title": "description_title"
+  },
+  "file": "File",
+  "@file": {
+    "file": "file"
+  },
+  "files": "Files",
+  "@files": {
+    "files": "files"
+  },
+  "add_new_lecture": "Add New Lecture",
+  "@add_new_lecture": {
+    "add_new_lecture": "add_new_lecture"
+  },
+  "update_lecture": "Update Lecture",
+  "@update_lecture": {
+    "update_lecture": "update_lecture"
+  },
+  "add_new_certificate": "Add New Certificate",
+  "@add_new_certificate": {
+    "add_new_certificate": "add_new_certificate"
+  },
+  "update_certificate": "Update Certificate",
+  "@update_certificate": {
+    "update_certificate": "update_certificate"
+  },
+  "add_new_experience": "Add New Experience",
+  "@add_new_experience": {
+    "add_new_experience": "add_new_experience"
+  },
+  "update_experience": "Update Experience",
+  "@update_experience": {
+    "update_experience": "update_experience"
+  },
+  "add_new_projects": "Add New Projects",
+  "@add_new_projects": {
+    "add_new_projects": "add_new_projects"
+  },
+  "update_projects": "Update Projects",
+  "@update_projects": {
+    "update_projects": "update_projects"
+  },
+  "add_new_educations": "Add New Educations",
+  "@add_new_educations": {
+    "add_new_educations": "add_new_educations"
+  },
+  "update_educations": "Update Educations",
+  "@update_educations": {
+    "update_educations": "update_educations"
+  },
+  "add_new_courses": "Add New Courses",
+  "@add_new_courses": {
+    "add_new_courses": "add_new_courses"
+  },
+  "update_courses": "Update Courses",
+  "@update_courses": {
+    "update_courses": "update_courses"
+  },
+  "add_new_skills": "Add New Skills",
+  "@add_new_skills": {
+    "add_new_skills": "add_new_skills"
+  },
+  "update_skills": "Update Skills",
+  "@update_skills": {
+    "update_skills": "update_skills"
+  },
+  "add_new_language_skills": "Add New Language Skills",
+  "@add_new_language_skills": {
+    "add_new_language_skills": "add_new_language_skills"
+  },
+  "update_language_skills": "Add New Language Skills",
+  "@update_language_skills": {
+    "update_language_skills": "update_language_skills"
+  },
+  "lecture_title": "Lecture title",
+  "@lecture_title": {
+    "lecture_title": "lecture_title"
+  },
+  "company": "Company",
+  "@company": {
+    "company": "company"
+  },
+  "url": "Url",
+  "@url": {
+    "url": "url"
+  },
+  "path": "Path",
+  "@path": {
+    "path": "path"
+  },
+  "link": "Link",
+  "@link": {
+    "link": "link"
+  },
+  "details": "details",
+  "@details": {
+    "details": "details"
+  },
+  "jop_title": "Jop title",
+  "@jop_title": {
+    "jop_title": "jop_title"
+  },
+  "project_name": "Project name",
+  "@project_name": {
+    "project_name": "project_name"
+  },
+  "grade": "Grade",
+  "@grade": {
+    "grade": "grade"
+  },
+  "degree": "Degree",
+  "@degree": {
+    "degree": "degree"
+  },
+  "school": "School",
+  "@school": {
+    "school": "school"
+  },
+  "field_of_study": "Field of study",
+  "@field_of_study": {
+    "field_of_study": "field_of_study"
+  },
+  "date": "Date",
+  "@date": {
+    "date": "date"
+  },
+  "place": "Place",
+  "@place": {
+    "place": "place"
+  },
+  "skill_name": "Skill name",
+  "@skill_name": {
+    "skill_name": "skill_name"
+  },
+  "level": "Level",
+  "@level": {
+    "level": "level"
+  },
+  "choose_language": "Choose language",
+  "@choose_language": {
+    "choose_language": "choose_language"
+  },
+  "following": "Following",
+  "@following": {
+    "following": "following"
+  },
+  "info": "Info",
+  "@info": {
+    "info": "info"
+  },
+  "edit_basic_info": "Edit basic info",
+  "@edit_basic_info": {
+    "edit_basic_info": "edit_basic_info"
+  },
+  "edit_contact_info": "Edit contact info",
+  "@edit_contact_info": {
+    "edit_contact_info": "edit_contact_info"
+  },
+  "duration": "Duration",
+  "@duration": {
+    "duration": "duration"
+  },
+  "item_detail": "Item detail",
+  "@item_detail": {
+    "item_detail": "item_detail"
+  },
+  "photo": "Photo",
+  "@photo": {
+    "photo": "photo"
+  },
+  "photos": "Photos",
+  "@photos": {
+    "photos": "photos"
+  },
+  "videos": "Videos",
+  "@videos": {
+    "videos": "videos"
+  },
+  "edit": "Edit",
+  "@edit": {
+    "edit": "edit"
+  },
+  "delete": "Delete",
+  "@delete": {
+    "delete": "delete"
+  },
+  "no_expire_date": "No expire date",
+  "@no_expire_date": {
+    "no_expire_date": "no_expire_date"
+  },
+  "start_date": "Start date",
+  "@start_date": {
+    "start_date": "start_date"
+  },
+  "expire_date": "Expire date",
+  "@expire_date": {
+    "expire_date": "expire_date"
+  },
+  "add_item": "Add item",
+  "@add_item": {
+    "add_item": "add_item"
+  },
+  "creater": "Creater",
+  "@creater": {
+    "creater": "creater"
+  },
+  "fav": "Fav",
+  "@fav": {
+    "fav": "fav"
+  },
+  "share": "Share",
+  "@share": {
+    "share": "share"
+  },
+  "copy": "Copy",
+  "@copy": {
+    "copy": "copy"
+  },
+  "message_encoded_group": "Message encoded group",
+  "@message_encoded_group": {
+    "message_encoded_group": "message_encoded_group"
+  },
+  "useful": "Useful",
+  "@useful": {
+    "useful": "useful"
+  },
+  "comments": "Comments",
+  "@comments": {
+    "comments": "comments"
+  },
+  "emphasis": "Emphasis",
+  "@emphasis": {
+    "emphasis": "emphasis"
+  },
+  "answers": "answers",
+  "@answers": {
+    "answers": "answers"
+  },
+  "attachments": "attachments",
+  "@attachments": {
+    "attachments": "attachments"
+  },
+  "more_options": "More options",
+  "@more_options": {
+    "more_options": "more_options"
+  },
+  "edit_question": "Edit question",
+  "@edit_question": {
+    "edit_question": "edit_question"
+  },
+  "delete_question": "Delete question",
+  "@delete_question": {
+    "delete_question": "delete_question"
+  },
+  "report_about_this_question": "Report about this question",
+  "@report_about_this_question": {
+    "report_about_this_question": "report_about_this_question"
+  },
+  "share_question_link": "Share question link",
+  "@share_question_link": {
+    "share_question_link": "share_question_link"
+  },
+  "anonymous": "Anonymous",
+  "@anonymous": {
+    "anonymous": "anonymous"
+  },
+  "activity_on_this_sub_category": "activity on this sub category",
+  "@activity_on_this_sub_category": {
+    "activity_on_this_sub_category": "activity_on_this_sub_category"
+  },
+  "write_comment": "Wirte comment",
+  "@write_comment": {
+    "write_comment": "wirte_comment"
+  },
+  "write_report": "Write report",
+  "@write_report": {
+    "write_report": "wirte_comment"
+  },
+  "we_will_show_you_more_activity_from_the_sub_category_you_pick": "we'll show you more activity from the sub category you pick",
+  "@we_will_show_you_more_activity_from_the_sub_category_you_pick": {
+    "we_will_show_you_more_activity_from_the_sub_category_you_pick": "we_will_show_you_more_activity_from_the_sub_category_you_pick"
+  },
+  "do_you_need_delete_item": "Do you need delete item",
+  "@do_you_need_delete_item": {
+    "do_you_need_delete_item": "do_you_need_delete_item"
+  },
+  "please": "Please",
+  "@please": {
+    "please": "please"
+  },
+  "to_your_account": "to your account",
+  "@to_your_account": {
+    "to_your_account": "to_your_account"
+  },
+  "you_are_invited": "You Are Invited",
+  "@you_are_invited": {
+    "to_your_account": "to_your_account"
+  },
+  "failure_to_fetch_posts": "Failure to fetch posts",
+  "@failure_to_fetch_posts": {
+    "to_your_account": "to_your_account"
+  },
+  "no_mobile_number": "No mobile number",
+  "@no_mobile_number": {
+  "no_mobile_number": "no_mobile_number"
+  } ,
+  "no_land_line": "No land line number",
+  "@no_land_line": {
+  "no_land_line": "no_land_line"
+  } ,
+  "please_add_title": "Please add title",
+  "@please_add_title": {
+    "please_add_title": "please_add_title"
+  },
+  "please_add_description": "please add description",
+  "@please_add_description": {
+    "please_add_description": "please_add_description"
+  },
+  "check_your_internet_connection":  "check your internet connection",
+  "@check_your_internet_connection": {
+    "check_your_internet_connection": "check_your_internet_connection"
+  },
+  "add_file":  "Please add `file",
+  "@add_file": {
+    "add_file": "add_file"
+  },
+  "add_company":  "Add company",
+  "@add_company": {
+    "add_company": "add_company"
+  },
+  "add_path":  "Add path",
+  "@add_path": {
+    "add_path": "add_path"
+  },
+  "add_start_time":  "Add start time",
+  "@add_start_time": {
+    "add_start_time": "add_start_time"
+  },
+  "add_end_time":  "Add end time",
+  "@add_end_time": {
+    "add_end_time": "add_end_time"
+  },
+  "please_select_language_level":  "please select language level",
+  "@please_select_language_level": {
+    "please_select_language_level": "please_select_language_level"
+  },
+  "please_select_language":  "please select language ",
+  "@please_select_language": {
+    "please_select_language": "please_select_language"
+  },
+  "please_select_location":  "please select location ",
+  "@please_select_location": {
+    "please_select_location": "please_select_location"
+  },
+  "please_add":  "please Add ",
+  "@please_add": {
+    "please_add": "please_add"
+  },
+  "vote_people":  "Vote People",
+  "@vote_people": {
+    "vote_people": "vote_People"
+  },
+  "copy_your_profile_link_from_your_facebook_profile_page":  "copy your profile link from your facebook profile page",
+  "@copy_your_profile_link_from_your_facebook_profile_page": {
+    "copy_your_profile_link_from_your_facebook_profile_page": "copy_your_profile_link_from_your_facebook_profile_page"
+  },
+  "copy_your_profile_link_from_your_instagram_profilePage":  "copy your profile link from your instagram profilePage",
+  "@copy_your_profile_link_from_your_instagram_profilePage": {
+    "copy_your_profile_link_from_your_instagram_profilePage": "copy_your_profile_link_from_your_instagram_profilePage"
+  },
+  "copy_your_telegram_username_from_your_telegram_profile_page":  "copy your telegram username from your telegram profile page ",
+  "@copy_your_telegram_username_from_your_telegram_profile_page": {
+    "copy_your_telegram_username_from_your_telegram_profile_page": "copy_your_telegram_username_from_your_telegram_profile_page"
+  },
+  "add_your_phone_number":  "add your phone number",
+  "@add_your_phone_number": {
+    "add_your_phone_number": "add_your_phone_number"
+  },
+  "copy_your_twitter_name_from_your_twitter_profile_page_without_sympol":  "copy your twitter name from your twitter profile page without @sympol",
+  "@copy_your_twitter_name_from_your_twitter_profile_page_without_sympol": {
+    "copy_your_twitter_name_from_your_twitter_profile_page_without_sympol": "copy_your_twitter_name_from_your_twitter_profile_page_without_sympol"
+  },
+  "copy_your_channel_link_from_your_youtube_profile_page":  "copy your channel link from your youtube profile page ",
+  "@copy_your_channel_link_from_your_youtube_profile_page": {
+    "copy_your_channel_link_from_your_youtube_profile_page": "copy_your_channel_link_from_your_youtube_profile_page"
+  },
+  "admin_permissions":  "Admin will have all permission:\n . Add/Edit/Delete Question \n . Add/Edit/Delete Blog \n . Delete Comment/Replay/Answer \n . Edit/Delete Group \n . Display Name\n . Invite/Remove Members",
+  "@admin_permissions": {
+    "copy_your_channel_link_from_your_youtube_profile_page": "copy_your_channel_link_from_your_youtube_profile_page"
+  },
+  "editor_permissions":  "Editor will have all permission:\n. Add/Edit/Delete Question \n . Add/Edit/Delete Blog \n . Delete Comment/Replay/Answer ",
+  "@editor_permissions": {
+    "copy_your_channel_link_from_your_youtube_profile_page": "copy_your_channel_link_from_your_youtube_profile_page"
+  },
+  "coordinator_permissions":  "Coordinator will have all permission:\n. Display Name\n . Invite/Remove Members",
+  "@coordinator_permissions": {
+    "copy_your_channel_link_from_your_youtube_profile_page": "copy_your_channel_link_from_your_youtube_profile_page"
+  },
+  "user_permissions":  "User will have all permission:\n. Ask Question",
+  "@user_permissions": {
+    "copy_your_channel_link_from_your_youtube_profile_page": "copy_your_channel_link_from_your_youtube_profile_page"
+  },
+  "only_health_care_can_set_emphasis":  "Only health care providers can set emphasis",
+  "@only_health_care_can_set_emphasis": {
+    "only_health_care_can_set_emphasis": "copy_your_channel_link_from_your_youtube_profile_page"
+  },
+  "your_question_title":  "Your question title",
+  "@your_question_title": {
+    "only_health_care_can_set_emphasis": "copy_your_channel_link_from_your_youtube_profile_page"
+  },
+  "your_question_details":  "Your question details",
+  "@your_question_details": {
+    "only_health_care_can_set_emphasis": "copy_your_channel_link_from_your_youtube_profile_page"
+  },
+  "add_tags":  "ADD TAGS",
+  "@add_tags": {
+    "only_health_care_can_set_emphasis": "copy_your_channel_link_from_your_youtube_profile_page"
+  },
+  "upload_attachment":  "Upload attachment",
+  "@upload_attachment": {
+    "only_health_care_can_set_emphasis": "copy_your_channel_link_from_your_youtube_profile_page"
+  },
+  "this_question_is_seen_only_health_care":  "This question is seen only by healthCare providers",
+  "@this_question_is_seen_only_health_care": {
+    "only_health_care_can_set_emphasis": "copy_your_channel_link_from_your_youtube_profile_page"
+  },
+  "ask_anonymously":  "Ask anonymously",
+  "@ask_anonymously": {
+    "only_health_care_can_set_emphasis": "copy_your_channel_link_from_your_youtube_profile_page"
+  },
+  "ask":  "Ask",
+  "@ask": {
+    "only_health_care_can_set_emphasis": "copy_your_channel_link_from_your_youtube_profile_page"
+  },
+  "add_question":  "Add Question",
+  "@add_question": {
+    "only_health_care_can_set_emphasis": "copy_your_channel_link_from_your_youtube_profile_page"
+  },
+  "category_cannot_be_empty":  "Category cannot be empty",
+  "@category_cannot_be_empty": {
+    "only_health_care_can_set_emphasis": "copy_your_channel_link_from_your_youtube_profile_page"
+  },
+  "subCategory_cannot_be_empty":  "SubCategory cannot be empty",
+  "@subCategory_cannot_be_empty": {
+    "only_health_care_can_set_emphasis": "copy_your_channel_link_from_your_youtube_profile_page"
+  },
+  "question_title_should_be_more_than_10_characters":  "Question title should be more than 10 characters",
+  "@question_title_should_be_more_than_10_characters": {
+    "only_health_care_can_set_emphasis": "copy_your_channel_link_from_your_youtube_profile_page"
+  },
+  "question_Details_should_be_more_than_10_characters":  "Question Details should be more than 10 characters",
+  "@question_Details_should_be_more_than_10_characters": {
+    "only_health_care_can_set_emphasis": "copy_your_channel_link_from_your_youtube_profile_page"
+  },
+  "summery":  "Summery",
+  "@summery": {
+    "summery": "summery"
+  },
+  "success_delete_item":  "Success delete item",
+  "@success_delete_item": {
+    "success_delete_item": "success_delete_item"
+  },
+  "account_name":  "Account name",
+  "@account_name": {
+    "account_name": "account_name"
+  },
+  "account_tag":  "Account tag",
+  "@account_tag": {
+    "account_tag": "account_tag"
+  },
+  "error_happened_try_again":  "Error happened try again",
+  "@error_happened_try_again": {
+    "error_happened_try_again": "error_happened_try_again"
+  },
+  "native":  "Native",
+  "@native": {
+    "native": "native"
+  },
+  "beginner":  "Beginner",
+  "@beginner": {
+    "beginner": "beginner"
+  },
+  "elementary":  "Elementary",
+  "@elementary": {
+    "elementary": "elementary"
+  },
+  "intermediate":  "Intermediate",
+  "@intermediate": {
+    "intermediate": "intermediate"
+  },
+  "upper_intermediate":  "Upper Intermediate",
+  "@upper_intermediate": {
+    "upper_intermediate": "upper_intermediate"
+  },
+  "advanced":  "Advanced",
+  "@advanced": {
+    "advanced": "advanced"
+  },
+  "professional":  "Professional",
+  "@professional": {
+    "professional": "professional"
+  },
+  "group_description":  "Group Description",
+  "@group_description": {
+    "group_description": "group_description"
+  },
+  "group_admins":  "Group Admins",
+  "@group_admins": {
+    "group_admins": "group_admins"
+  },
+  "group_pending_members":  "Group Pending Members",
+  "@group_pending_members": {
+    "group_admins": "group_admins"
+  },
+  "report_about_this_blog":  "Report about this blog",
+  "@report_about_this_blog": {
+    "group_admins": "group_admins"
+  },
+  "share_blog_link":  "Share blog link",
+  "@share_blog_link": {
+    "share_blog_link": "share_blog_link"
+  },
+  "delete_blog":  "Delete blog",
+  "@delete_blog": {
+    "delete_blog": "edit_blog"
+  },
+  "edit_blog":  "Edit blog",
+  "@edit_blog": {
+    "edit_blog": "edit_blog"
+  },
+  "comment_for_health_care":  "Comment for health care",
+  "@comment_for_health_care": {
+    "comment_for_health_care": "comment_for_health_care"
+  },
+  "all_group":  "All Group",
+  "@all_group": {
+    "all_group": "comment_for_health_care"
+  },
+  "researcher":  "Researcher",
+  "@researcher": {
+    "researcher": "researcher"
+  },
+  "main_category":  "Main Category",
+  "@main_category": {
+    "main_category": "main_category"
+  },
+  "reset":  "Reset",
+  "@reset": {
+    "reset": "reset"
+  },
+  "advance_search":  "Advance search",
+  "@advance_search": {
+    "advance_search": "advance_search"
+  },
+  "account_type":  "Account type",
+  "@account_type": {
+    "account_type": "account_type"
+  },
+  "validation_error":  "Validation Error",
+  "@validation_error": {
+    "validation_error": "account_type"
+  },
+  "advantages":  "Advantages",
+  "@advantages": {
+    "advantages": "account_type"
+  },
+  "owner":  "Owner",
+  "@owner": {
+    "advantages": "account_type"
+  },
+  "approved_team_members":  "Approved Team Members",
+  "@approved_team_members": {
+    "advantages": "account_type"
+  },
+  "department_information":  "Department information",
+  "@department_information": {
+    "advantages": "account_type"
+  },
+  "total_member_count":  "Total Member Count",
+  "@total_member_count": {
+    "total_member_count": "account_type"
+  },
+  "department_name":  "Department name",
+  "@department_name": {
+    "department_name": "account_type"
+  },
+  "department_details":  "department details",
+  "@department_details": {
+    "department_details": "account_type"
+  },
+  "delete_your_account":  "Delete your account",
+  "@delete_your_account": {
+    "department_details": "account_type"
+  },
+  "about_health":  "A medical communication platform that seeks to create a community that brings healthCare providers together with individuals who wish to access different forms of medical services in the MENA region.\n It allows healthCare providers to create profile page and provide information to connect with individuals outside the health sector who wish to receive services or assistance from healthCare providers, and provides a reliable channel of communication between the community and the health sector.",
+  "@about_health": {
+    "about_health": "account_type"
+  },
+  "about_our_vision":  "TO create a virtual health community in which service providers are encouraged to communicate by creating blogs and groups and answering questions related to their competence, in addition to encouraging service recipients to create real accounts and ask their problems and questions in high comfort and privacy environment.",
+  "@about_our_vision": {
+    "about_our_vision": "account_type"
+  },
+  "about_our_mision":  "Achieve easy, secure and fast access for all to the health service or information, where all users are comfortable with the platform and the presence of service providers effectively and actively in all disciplines, in addition to the rate of publishing and engagement for all categories of the platform community.",
+  "@about_our_mision": {
+    "about_our_mision": "account_type"
+  },
+  "about_our_services":  " • Connect health providers with their recipients securely\n • Build a network linking health institutions, health service providers and trainees as well\n • Publish and share scientific articles about health issues\n • Answer users' medical questions\n • Providing medical consultations\n • Create a calender for each doctor ",
+  "@about_our_services": {
+    "about_our_services": "account_type"
+  },
+  "about_advantages":  " • Sharing of medical articles or publications by doctors\n • Ask questions within groups, or direct them to a specific doctor\n • Create public or private groups for each particular doctor or speciality\n • Request medical consultation and attach necessary attachments to the doctor\n • Possibility to book an appointment for audio or video medical consultation",
+  "@about_advantages": {
+    "about_advantages": "account_type"
+  },
+  "about_clients":  "• Health care providers\n  ○ Medical institutions\n  ○ Doctors\n  ○ Medical students or recent graduates\n• Individuals interested in access to health services",
+  "@about_clients": {
+    "about_clients": "account_type"
+  },
+  "update":  "Update",
+  "@update": {
+    "update": "update"
+  },
+  "the_file_is_downloading":  "the file is downloading",
+  "@the_file_is_downloading": {
+    "the_file_is_downloading": "the_file_is_downloading"
+  },
+  "question_files":  "Question files",
+  "@question_files": {
+    "question_files": "question_files"
+  },
+  "add_report_please":  "Add report please",
+  "@add_report_please": {
+    "add_report_please": "question_files"
+  },
+  "you_have_exceeded_the_number_of_limited_entries":  "You have exceeded the number of limited entries ",
+  "@you_have_exceeded_the_number_of_limited_entries": {
+    "you_have_exceeded_the_number_of_limited_entries": "you_have_exceeded_the_number_of_limited_entries"
+  },
+  "add_blog":  "Add Blog",
+  "@add_blog": {
+    "add_blog": "you_have_exceeded_the_number_of_limited_entries"
+  },
+  "your_blog_title":  "Your blog title",
+  "@your_blog_title": {
+    "your_blog_title": "you_have_exceeded_the_number_of_limited_entries"
+  },
+  "your_blog_details":  "Your blog details",
+  "@your_blog_details": {
+    "your_blog_details": "you_have_exceeded_the_number_of_limited_entries"
+  },
+  "audio":  "AUDIO",
+  "@audio": {
+    "audio": "you_have_exceeded_the_number_of_limited_entries"
+  },
+  "docs":  "DOCS",
+  "@docs": {
+    "docs": "you_have_exceeded_the_number_of_limited_entries"
+  },
+  "video":  "VIDEO",
+  "@video": {
+    "video": "you_have_exceeded_the_number_of_limited_entries"
+  },
+  "youtube_link":  "YOUTUBE LINK",
+  "@youtube_link": {
+    "youtube_link": "you_have_exceeded_the_number_of_limited_entries"
+  },
+  "post":  "POST",
+  "@post": {
+    "post": "you_have_exceeded_the_number_of_limited_entries"
+  },
+  "this_blog_is_seen_only_health_car":  "This blog is seen only by healthcare providers",
+  "@this_blog_is_seen_only_health_car": {
+    "this_blog_is_seen_only_health_car": "you_have_exceeded_the_number_of_limited_entries"
+  },
+  "blog_title_should_be_more_than_10_characters":  "Blog title should be more than 10 characters",
+  "@blog_title_should_be_more_than_10_characters": {
+    "blog_title_should_be_more_than_10_characters": "you_have_exceeded_the_number_of_limited_entries"
+  },
+  "blog_Details_should_be_more_than_10_characters":  "Blog Details should be more than 10 characters",
+  "@blog_Details_should_be_more_than_10_characters": {
+    "blog_Details_should_be_more_than_10_characters": "you_have_exceeded_the_number_of_limited_entries"
+  },
+  "invalid_facebook_account":  "Invalid facebook account ",
+  "@invalid_facebook_account": {
+    "invalid_facebook_account": "invalid_facebook_account"
+  },
+  "continue_with_facebook":  "Continue with facebook",
+  "@continue_with_facebook": {
+    "continue_with_facebook": "continue_with_facebook"
+  },
+  "continue_with_google":  "Continue with google",
+  "@continue_with_google": {
+    "continue_with_google": "continue_with_google"
+  },
+  "previous":  "Previous",
+  "@previous": {
+    "previous": "previous"
+  },
+  "select_your_category":  "Select your category",
+  "@select_your_category": {
+    "select_your_category": "select_your_category"
+  },
+  "select_your_sub_categories":  "Select your sub categories",
+  "@select_your_sub_categories": {
+    "select_your_sub_categories": "select_your_sub_categories"
+  },
+  "did_not_choose_any_category_yet":  "Did not choose any category yet",
+  "@did_not_choose_any_category_yet": {
+    "did_not_choose_any_category_yet": "did_not_choose_any_category_yet"
+  },
+  "did_not_choose_any_sub_category_yet":  "did not choose any sub category yet",
+  "@did_not_choose_any_sub_category_yet": {
+    "did_not_choose_any_sub_category_yet": "did_not_choose_any_sub_category_yet"
+  },
+  "you_should_select_category_first":  "You should select category first",
+  "@you_should_select_category_first": {
+    "you_should_select_category_first": "you_should_select_category_first"
+  },
+  "there_is_not_any_social_information_to_show":  "there is't any social information to show",
+  "@there_is_not_any_social_information_to_show": {
+    "there_is_not_any_social_information_to_show": "there_is_not_any_social_information_to_show"
+  },
+  "this_health_care_provider_did_not_add_any_skills":  "this health care provider did't add any skills",
+  "@this_health_care_provider_did_not_add_any_skills": {
+    "this_health_care_provider_did_not_add_any_skills": "this_health_care_provider_did_not_add_any_skills"
+  },
+  "this_health_care_provider_did_not_add_any_summery":  "this health care provider didt add any summery",
+  "@this_health_care_provider_did_not_add_any_summery": {
+    "this_health_care_provider_did_not_add_any_summery": "this_health_care_provider_did_not_add_any_summery"
+  },
+  "notifications":  "notifications",
+  "@notifications": {
+    "notifications": "notifications"
+  },
+  "to_show_question_detail_should_signup_or_login":  "to show question detail should",
+  "@to_show_question_detail_should_signup_or_login": {
+    "to_show_question_detail_should_signup_or_login": "to_show_question_detail_should_signup_or_login"
+  },
+  "i_agree_with_the":  "i agree with the",
+  "@i_agree_with_the": {
+    "i_agree_with_the": "i_agree_with_the"
+  },
+  "terms":  "terms",
+  "@terms": {
+    "terms": "terms"
+  },
+  "of_use_and":  "of use and",
+  "@of_use_and": {
+    "of_use_and": "of_use_and"
+  },
+  "privacy_policy":  "privacy policy",
+  "@privacy_policy": {
+    "privacy_policy": "privacy_policy"
+  },
+  "contnue_with_email":  "contnue with email",
+  "@contnue_with_email": {
+    "contnue_with_email": "contnue_with_email"
+  },
+  "read_all":  "Marl all as Read",
+  "@read_all": {
+    "read_all": "read_all"
+  },
+  "read_more":  "Read more",
+  "@read_more": {
+    "read_more": "..read_more"
+  }
+}

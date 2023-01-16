@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">arachnoit</string>
+    <string name="facebook_app_id">295353912157395</string>
+    <string name="fb_login_protocol_scheme">fb295353912157395</string>
+    <!-- <string name="d_web_client_id">836364970583-kh681v40fhau1h1evtf2mfgf6qbvviv0.apps.googleusercontent.com</string> -->
+</resources>
